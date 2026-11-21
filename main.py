@@ -7,7 +7,7 @@ no environment variables.
 
 from pathlib import Path
 
-JOKE = "PLACEHOLDER joke: my AI coding agent writes all the code, and I just nod at the diff like I wrote it myself."
+JOKE = "My AI agent writes the feature before my coffee cools, and I spend the rest of the day reviewing it \u2014 I didn't hire a coder, I hired a boss."
 
 OUT = Path("/output/entry.txt")
 
